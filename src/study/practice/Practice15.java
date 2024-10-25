@@ -28,7 +28,6 @@ public class Practice15 {
 			//아메리카노 3800
 			
 			while(true) {
-			
 				System.out.println("=========메뉴=========");
 				for(int i=0; i<menuArr.length; i++) {	//0~
 					// 1.메뉴이름 메뉴가격원
