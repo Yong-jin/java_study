@@ -25,6 +25,12 @@ public class StudentMain {
 		stu1.grade = 3;
 		stu2.grade = 5;
 		
+		String name;
+		name = "변경";
+		
+		stu1.phone = "12313";
+		stu1.studentNumber = "sodijfo";
+		
 	}
 
 }
