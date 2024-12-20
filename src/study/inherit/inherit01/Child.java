@@ -26,4 +26,9 @@ public class Child extends Parent {
 	public void play() {
 		System.out.println("뛰어놀기");
 	}
+	
+	public void printInfo() {
+		System.out.println(grade + " " + schoolName + " " + money);
+		System.out.println(age);
+	}
 }
