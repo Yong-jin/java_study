@@ -12,6 +12,11 @@ public class ArplInfo {
 			informGrade varchar2(1024),
 			imageUrl1 varchar2(1024)
 		);
+		
+		CREATE SEQUENCE arplinfo_pk_seq
+		start with 1
+		increment by 1
+		nocycle;
 	 */
 	
 	
